@@ -1,4 +1,4 @@
-# ShipNow — Pre-entrega Módulo 7 Backend III
+# ShipNow — Pre-entrega Módulo 8 Backend III
 
 Esta pre-entrega agrega paginación, configuración por entorno y ejecución con Docker a la API de ShipNow. Incluye carga de documentos y comprobantes mediante Multer y una suite de tests funcionales de los Módulos 6 y 7, implementada con Mocha, Chai y Supertest. Cubre usuarios, productos, pedidos, entregas, mocks, logger y Swagger, con casos exitosos y errores esperados. Las pruebas utilizan una instancia temporal de MongoDB, datos controlados y limpieza automática. La API conserva la documentación OpenAPI 3.0.3, Swagger UI, Winston y el manejo centralizado de errores.
 
